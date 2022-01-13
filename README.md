@@ -6,7 +6,7 @@
 
 📈 GitHub Stats
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-Maxim0v&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-Maxim0v&locale=ru&theme=dark&card_width=400&bg_color=4f4f4f&text_color=fff&title_color=fff&border_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 💼 Skills
 ---
