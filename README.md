@@ -4,6 +4,10 @@
 
 Стремлюсь создавать функциональные, но в тоже время интуитивно понятные, простые для пользователя интерфейсы.
 
+📈 GitHub Stats
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-Maxim0v&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 💼 Skills
 ---
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
