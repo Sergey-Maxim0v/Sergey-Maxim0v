@@ -29,6 +29,6 @@
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&color=4AB197)
 
 ---
-[![Visits Badge](https://badges.pufler.dev/visits/Sergey-Maxim0v/Sergey-Maxim0v)](https:Sergey-Maxim0v.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/Sergey-Maxim0v/Sergey-Maxim0v)](https:Sergey-Maxim0v)
 [![Codewars Badge](https://www.codewars.com/users/Sergey-Maxim0v/badges/micro)](https://www.codewars.com/users/Sergey-Maxim0v)
 
