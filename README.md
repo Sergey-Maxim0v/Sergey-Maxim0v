@@ -33,6 +33,5 @@
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=4AB197)
 
 ---
-[![Visits Badge](https://badges.pufler.dev/visits/Sergey-Maxim0v/Sergey-Maxim0v)](https:Sergey-Maxim0v)
 [![Codewars Badge](https://www.codewars.com/users/Sergey-Maxim0v/badges/micro)](https://www.codewars.com/users/Sergey-Maxim0v)
 
