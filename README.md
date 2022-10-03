@@ -22,6 +22,7 @@
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&color=4AB197)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&color=4AB197)
 ![](https://img.shields.io/badge/Style-Less-informational?style=flat&logo=Less&color=4AB197)
+![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind&color=4AB197)
 
 ![](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=Webpack&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&color=4AB197)
