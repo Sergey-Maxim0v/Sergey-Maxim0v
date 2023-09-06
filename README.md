@@ -4,7 +4,7 @@
 
 Стремлюсь создавать функциональные, но в тоже время интуитивно понятные, простые для пользователя интерфейсы.
 
-#### [My portfolio](https://sergey-maxim0v.github.io/Portfolio/ "https://sergey-maxim0v.github.io/Portfolio")
+#### [My portfolio](https://sergey-maxim0v.github.io/Portfolio-2023 "https://sergey-maxim0v.github.io/Portfolio-2023")
 
 📈 GitHub Stats
 ---
