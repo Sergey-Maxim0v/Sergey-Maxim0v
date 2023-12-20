@@ -6,12 +6,6 @@
 
 #### [My portfolio](https://sergey-maxim0v.github.io/Portfolio-2023 "https://sergey-maxim0v.github.io/Portfolio-2023")
 
-📈 GitHub Stats
----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergey-Maxim0v&locale=ru&theme=dark&card_width=500&bg_color=4f4f4f&text_color=fff&title_color=fff&border_color=fff&show_icons=true&icon_color=4AB197)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-Maxim0v&locale=ru&theme=dark&card_width=500&bg_color=4f4f4f&text_color=fff&title_color=fff&border_color=fff&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
 💼 Skills
 ---
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=4AB197)
@@ -35,6 +29,12 @@
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=4AB197)
+
+📈 GitHub Stats
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergey-Maxim0v&locale=ru&theme=dark&card_width=500&bg_color=4f4f4f&text_color=fff&title_color=fff&border_color=fff&show_icons=true&icon_color=4AB197)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-Maxim0v&locale=ru&theme=dark&card_width=500&bg_color=4f4f4f&text_color=fff&title_color=fff&border_color=fff&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 [![Codewars Badge](https://www.codewars.com/users/Sergey-Maxim0v/badges/large)](https://www.codewars.com/users/Sergey-Maxim0v)
