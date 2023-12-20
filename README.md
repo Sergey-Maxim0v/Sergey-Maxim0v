@@ -37,5 +37,8 @@
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=4AB197)
 
 ---
-[![Codewars Badge](https://www.codewars.com/users/Sergey-Maxim0v/badges/micro)](https://www.codewars.com/users/Sergey-Maxim0v)
+[![Codewars Badge](https://www.codewars.com/users/Sergey-Maxim0v/badges/large)](https://www.codewars.com/users/Sergey-Maxim0v)
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Sergey-Maxim0v)](https://leetcode.com/Sergey-Maxim0v)
+
 
