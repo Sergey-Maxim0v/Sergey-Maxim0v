@@ -20,6 +20,7 @@
 ![](https://img.shields.io/badge/Style-Less-informational?style=flat&logo=Less&color=4AB197)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind&color=4AB197)
 
+![](https://img.shields.io/badge/Tools-Vite-informational?style=flat&logo=Vite&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=Webpack&color=4AB197)
 ![](https://img.shields.io/badge/Tools-MobX-informational?style=flat&logo=MobX&color=4AB197)
 ![](https://img.shields.io/badge/Tools-StyledComponents-informational?style=flat&logo=StyledComponents&color=4AB197)
