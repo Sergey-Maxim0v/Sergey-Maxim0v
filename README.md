@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/CSS-Style-informational?style=flat&logo=css3&color=4AB197)
 ![](https://img.shields.io/badge/Sass-Style-informational?style=flat&logo=sass&color=4AB197)
 ![](https://img.shields.io/badge/Less-Style-informational?style=flat&logo=less&color=4AB197)
-![](https://img.shields.io/badge/Gsap-Style-informational?style=flat&logo=gsap&color=4AB197)
+![](https://img.shields.io/badge/GSAP-Style-informational?style=flat&logo=GSAP&color=4AB197)
 ![](https://img.shields.io/badge/Tailwind-Style-informational?style=flat&logo=tailwindcss&color=4AB197)
 ![](https://img.shields.io/badge/StyledComponents-Style-informational?style=flat&logo=StyledComponents&color=4AB197)
 
