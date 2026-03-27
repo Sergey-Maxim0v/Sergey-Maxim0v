@@ -31,12 +31,6 @@
 ![](https://img.shields.io/badge/GitLab-Tools-informational?style=flat&logo=GitLab&color=4AB197)
 ![](https://img.shields.io/badge/Figma-Tools-informational?style=flat&logo=Figma&color=4AB197)
 
-📈 GitHub Stats
----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergey-Maxim0v&locale=ru&theme=dark&card_width=500&bg_color=4f4f4f&text_color=fff&title_color=fff&border_color=fff&show_icons=true&icon_color=4AB197)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-Maxim0v&locale=ru&theme=dark&card_width=500&bg_color=4f4f4f&text_color=fff&title_color=fff&border_color=fff&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 [![Codewars Badge](https://www.codewars.com/users/Sergey-Maxim0v/badges/micro)](https://www.codewars.com/users/Sergey-Maxim0v)
 [![LeetCode user Sergey-Maxim0v](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FSergey-Maxim0v&logo=leetcode&logoColor=yellow)](https://leetcode.com/Sergey-Maxim0v/)
