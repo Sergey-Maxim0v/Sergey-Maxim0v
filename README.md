@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Меня зовут Сергей Максимов, занимаюсь frontend-разработкой с 2021 года (React, TypeScript).
+Меня зовут Сергей Максимов, занимаюсь frontend-разработкой с 2021 года.
 
 #### [My portfolio](https://sergey-maxim0v.github.io/Portfolio-2023 "https://sergey-maxim0v.github.io/Portfolio-2023")
 
